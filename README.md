@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adrianmark87
-- 👀 I’m interested in professional reconversion
+- 👀 I’m interested in code learning
 - 🌱 I’m currently learning HTML, JAVA
 - 💞️ I’m looking to collaborate on code learning
 - 📫 How to reach me ...
